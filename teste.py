@@ -122,7 +122,7 @@ questions = [
     },
 ]   
 
-with open('C:\\Users\\Usuario\\OneDrive\\Documentos\\facul\\LFA\\sobre.txt', 'r') as arquivo:
+with open('C:\\Users\\Usuario\\Sistema-Educacional-sobre-LFA\\sobre.txt', 'r') as arquivo:
     texto = arquivo.read()
 
 class Sobre:
