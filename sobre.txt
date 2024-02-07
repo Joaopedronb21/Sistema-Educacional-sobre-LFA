@@ -1,0 +1,4 @@
+Voce pode encontrar conteudos sobre Automato a Pilha
+nesses links a seguir:
+1. https://edisciplinas.usp.br/pluginfile.php/2120054/mod_resource/content/1/glcAutomata.pdf
+2. https://abandre.github.io/lfa/Aula9.pdf
